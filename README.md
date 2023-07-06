@@ -5,4 +5,4 @@ Adventure Game is a platformer game developed using Python. It offers an engagin
  - Use the arrow keys to move the character left, right, up and down.
  - Press the space bar to perform jumps. You can execute both single and double jumps.
  - Traverse through the platformer blocks, tactfully avoiding obstacles (fire).
- - Reach the end of block/path and jump to end the game.
+ - Reach the end of block/path and jump off to end the game.
