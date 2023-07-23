@@ -6,7 +6,7 @@ Adventure Game is a platformer game developed using Python. It offers an engagin
 ### Game View
 ![Game ](GameImage/adventure-game.jpg)
 
-### How to Play
+## How to Play
  - Use the arrow keys to move the character left, right, up and down.
  - Press the space bar to perform jumps. You can execute both single and double jumps.
  - Traverse through the platformer blocks, tactfully avoiding obstacles (fire).
